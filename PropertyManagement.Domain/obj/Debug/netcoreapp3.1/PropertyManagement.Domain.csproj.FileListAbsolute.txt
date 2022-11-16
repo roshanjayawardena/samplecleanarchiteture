@@ -1,0 +1,10 @@
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.deps.json
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.csproj.AssemblyReference.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.AssemblyInfoInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.AssemblyInfo.cs
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.csproj.CoreCompileInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\obj\Debug\netcoreapp3.1\PropertyManagement.Domain.pdb

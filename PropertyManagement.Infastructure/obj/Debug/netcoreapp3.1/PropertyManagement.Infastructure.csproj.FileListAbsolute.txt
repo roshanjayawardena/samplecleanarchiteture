@@ -1,0 +1,15 @@
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Infastructure.deps.json
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Infastructure.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Infastructure.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Application.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Application.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.csproj.AssemblyReference.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.AssemblyInfoInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.AssemblyInfo.cs
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.csproj.CoreCompileInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.csproj.CopyComplete
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Infastructure\obj\Debug\netcoreapp3.1\PropertyManagement.Infastructure.pdb

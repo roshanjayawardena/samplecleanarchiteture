@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PropertyManagement.Domain
+build_property.ProjectDir = C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Domain\

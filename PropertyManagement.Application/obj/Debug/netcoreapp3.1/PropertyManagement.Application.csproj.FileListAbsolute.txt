@@ -1,0 +1,13 @@
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\bin\Debug\netcoreapp3.1\PropertyManagement.Application.deps.json
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\bin\Debug\netcoreapp3.1\PropertyManagement.Application.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\bin\Debug\netcoreapp3.1\PropertyManagement.Application.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\bin\Debug\netcoreapp3.1\PropertyManagement.Domain.pdb
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.csproj.AssemblyReference.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.AssemblyInfoInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.AssemblyInfo.cs
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.csproj.CoreCompileInputs.cache
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.csproj.CopyComplete
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.dll
+C:\MyOnes\microservices\MyMicroservice\PropertyManagement_Solution\PropertyManagement.Application\obj\Debug\netcoreapp3.1\PropertyManagement.Application.pdb
